@@ -1,0 +1,7 @@
+name: earthmlnewtest
+dependencies:
+  - dask
+  - tqdm
+  - pip
+  - pip:
+    - matplotlib
